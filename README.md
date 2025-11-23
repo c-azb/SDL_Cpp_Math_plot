@@ -1,10 +1,9 @@
 SDL 2D Math functions plot
-
 --
 
 Developed in 2021
 
-This project uses SDL with C++ to plot default and/or custom math functions. It also allows you to move the chart up, down, right, and left and zoom in and out. 
+This project uses SDL2 with C++ to plot default and/or custom math functions. It also allows you to move the chart up, down, right, and left and zoom in and out. 
 
 The user can type custom or default functions to plot in the chart and use keyboard keys to change the visibility of the chart. 
 
